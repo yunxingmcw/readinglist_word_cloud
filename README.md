@@ -12,7 +12,7 @@ Files added:
 # Quick start — build and run the Docker image
 
 ```bash
-# from project root (/Users/yunxing/PyCharmMiscProject)
+# from project root 
 docker build -t book-wordcloud:latest .
 
 # run Jupyter Lab and mount the project so you can edit files from the host
