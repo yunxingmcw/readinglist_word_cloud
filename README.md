@@ -35,7 +35,3 @@ save_wordcloud(wc1, 'word_cloud/book_titles_method1.png')
 
 Customizing container behavior
 - To run a specific Python script instead of Jupyter, change the `CMD` in `Dockerfile` or override it at runtime: `docker run ... book-wordcloud:latest python path/to/script.py`.
-
-If you want, I can:
-- Add the small `wordcloud_generator.py` runner file and example `docker run` command to execute it, or
-- Change the default `CMD` in `Dockerfile` to run a script instead of Jupyter Lab.
