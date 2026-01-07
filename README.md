@@ -1,6 +1,6 @@
 # Reading List Word Cloud
 
-This project generates word clouds from a Goodreads export (or similar CSV) of book titles using page counts as weights. 
+I like to read and use goodreads to track my reading progresses. This project generates word clouds from a Goodreads export (or similar CSV) of book titles using page counts as weights. 
 
 Files included:
 
