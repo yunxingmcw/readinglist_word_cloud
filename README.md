@@ -2,7 +2,7 @@
 
 This project generates word clouds from a Goodreads export (or similar CSV) of book titles using page counts as weights.
 
-Files added:
+Files included:
 
 - `Dockerfile` — builds a Python 3.11 image with system deps required by `wordcloud`.
 - `requirements.txt` — Python dependencies.
