@@ -1,7 +1,7 @@
 """Simple runner to generate and save two wordcloud images from a Goodreads-style CSV.
 
 Usage:
-  python wordcloud_generator.py --input word_cloud/yun_goodreads_library_export.csv
+  python wordcloud_generator.py --input word_cloud/your_goodreads_library_export.csv
 """
 import argparse
 import pandas as pd
